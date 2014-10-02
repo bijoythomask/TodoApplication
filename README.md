@@ -1,4 +1,0 @@
-AJSExamples
-===========
-
-Angular JS Examples
